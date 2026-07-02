@@ -1,4 +1,4 @@
-[Click here to view the 8-minute simulation video explaining the whole process.](https://drive.google.com/drive/u/0/folders/1m-NyGNsKJ3eKfLIFNobjmQB3yitPuI5l)
+[Click here to view the 8-minute simulation video explaining the whole process.](https://drive.google.com/file/d/1g53N-A0Kfzxl2ggKPgtg0wd5Ye5gqYjk/view?usp=sharing)
 
 # Estimated-Inverse-Dynamics-Model-Based-CTC_for_RRR-RobotArm
 
