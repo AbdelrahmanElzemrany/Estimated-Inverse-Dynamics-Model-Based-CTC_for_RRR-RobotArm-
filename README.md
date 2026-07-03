@@ -29,9 +29,9 @@ The repository is structured sequentially to take the robot from raw DH paramete
 * **`Step_10_CheckPositive.m`**: Runs a safety script to audit the unconstrained model across 27,000 distinct operational joint configurations.
 
 ### 5. Model-Based Control Integration
-* **`Step_11_GetTheEstimatedINVdynamics.m`**: Executes the `matlabFunctionBlock` utility to automatically generate native Simulink block code.
+* **`Step_11_GetTheEstimatedINVdynamics.m`**: Executes the matlabFunctionBlock utility to automatically generate programmatic Simulink blocks from the identified symbolic dynamics equations.
 * **`Step_12_TheEstimatedINVDynamicsMatricesCTC.slx`**: Integration canvas where previous block placeholders are swapped out for the new estimation subsystems.
-* **`Step_13_Real_RRR_CTC_validation.slx`**: To comapre The new estimated blocks against ground truth simulink blocks which inculde the full information about the tested RRR robot
+* **`Step_13_Real_RRR_CTC_validation.slx`**: To compare the new estimated blocks against ground truth simulink blocks which include the full information about the tested RRR robot
 
 ---
 
