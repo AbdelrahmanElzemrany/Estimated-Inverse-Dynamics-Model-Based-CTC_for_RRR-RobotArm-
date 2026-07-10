@@ -3,7 +3,7 @@
 # Estimated-Inverse-Dynamics-Model-Based-CTC_for_RRR-RobotArm
 
 
-An end-to-end parameter estimation framework and model-based Computed Torque Controller (CTC) for a 3R RRR serial robotic manipulator. Built using Simulink, Simscape Multibody, and MATLAB.
+An end-to-end parameter estimation framework and model-based Computed Torque Controller (CTC) for an RRR serial robotic manipulator. Built using Simulink, Simscape Multibody, and MATLAB.
 ## 📝 Project Overview
 
 Conventional model-free controllers (such as standalone PD loops) suffer from severe tracking degradation when executing high-speed, multi-joint trajectories. Because these reactive loops only respond *after* tracking errors have already developed, they cannot compensate for the heavy, non-linear effects of joint cross-coupling, centrifugal forces, Coriolis acceleration, and gravitational pull. 
