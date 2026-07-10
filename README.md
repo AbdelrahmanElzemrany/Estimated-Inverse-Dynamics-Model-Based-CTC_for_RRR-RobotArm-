@@ -54,6 +54,11 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 
 <img width="900" height="641" alt="Screenshot 2026-07-10 181016" src="https://github.com/user-attachments/assets/d17f72b6-960d-47b9-83f9-81829f632898" />
 
+---------------------------
+
+<img width="1907" height="915" alt="Screenshot 2026-07-10 220300" src="https://github.com/user-attachments/assets/5d1fdbda-c5dc-4646-916f-a862c65d8343" />
+
+---------------------------
 
 ## 🛠️ Pipeline & File Architecture
 
