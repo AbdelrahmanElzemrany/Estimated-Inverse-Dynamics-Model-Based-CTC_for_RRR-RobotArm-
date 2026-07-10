@@ -65,6 +65,13 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 
 --------------------------------
 
+<img width="746" height="422" alt="Step_12_TheEstimatedINVDynamicsMatricesCTC" src="https://github.com/user-attachments/assets/072afff9-5418-4800-a183-0289c0b58d83" />
+
+
+
+
+--------------------------------
+
 <img width="1907" height="913" alt="Screenshot 2026-07-10 232151" src="https://github.com/user-attachments/assets/a48858a4-e449-4657-b282-0214fd6dfe74" />
 
 
