@@ -12,6 +12,8 @@ Computed Torque Control (CTC) resolves this limitation by linearizing and decoup
 
 This project addresses this core bottleneck by establishing an end-to-end **parameter estimation framework and model-based Computed Torque Control (CTC) pipeline** for a 3-DOF RRR serial manipulator. The framework systematically maps the robot's symbolic regressor equations, maximizes parameter visibility via optimized multi-joint excitation paths, and extracts the dynamic parameters using a constrained convex optimization loop. By converting these verified parameters into active programmatic Simulink blocks, the architecture provides a highly precise, decoupled inverse dynamics control loop capable of tracking complex trajectories with over 99.95% global accuracy.
 
+<img width="1261" height="692" alt="Screenshot 2026-07-10 134248" src="https://github.com/user-attachments/assets/d672daa7-b40e-488b-9b67-4d32d16c395a" />
+
 
 ## 🛠️ Pipeline & File Architecture
 
