@@ -88,7 +88,8 @@ Figure 10 A visualization of the robot stance at zero position state.
 --------------------------------
 
 
-<img width="1907" height="927" alt="Screenshot 2026-07-10 231951" src="https://github.com/user-attachments/assets/3e338521-7e32-4f1f-a85f-4efb75f6ea7d" />
+<img width="1906" height="922" alt="Screenshot 2026-07-16 021606" src="https://github.com/user-attachments/assets/18867ac6-a79b-4926-960b-b350af352ede" />
+
 
 Figure 11 Testing the feedback linearzation. 
 
