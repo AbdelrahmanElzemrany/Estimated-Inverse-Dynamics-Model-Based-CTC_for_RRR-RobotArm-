@@ -110,14 +110,16 @@ Figure 13 An additional validation of the feedback linearzation after increasing
 ---------------------------
 <img width="1079" height="700" alt="Screenshot 2026-07-10 230831" src="https://github.com/user-attachments/assets/6ba3fd4d-793e-49e4-bf99-82f7a23bd22d" />
 
-Figuere 14 A ground truth validation by applying the real inverse dynamics matrices CTC with same input joint position command as the last validation.
+Figuere 14 A comparison between the estimated matrices CTC the estimate the friction part and the Robotics toolbox blocks that know excatly 
+the inertial parameters of the robot arm except the added friction to the system
 
 ---------------------------
 
 
-<img width="1907" height="927" alt="Screenshot 2026-07-11 000043" src="https://github.com/user-attachments/assets/2296d005-a440-422c-842b-6b9e28db1a3f" />
+<img width="1906" height="926" alt="Screenshot 2026-07-16 022858" src="https://github.com/user-attachments/assets/ce1efcd2-92aa-46f3-9be9-2f825782e627" />
 
-Figure 15 The real CTC configuration gives the same results as the estimated CTC. 
+
+Figure 15 The real CTC configuration gives a worse results because it does not consider the friction of the joints as the estimated one both with The same PD gains 100 Kp abd 20 KD. 
 
 ----------------------------
 
